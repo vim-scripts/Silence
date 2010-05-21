@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3097
+
+Continuation of the http://www.vim.org/scripts/script.php?script_id=2266 with some updates, 
+
+some screenshots :
+
+( html )  http://img192.imageshack.us/img192/1646/screenhtml.png 
+( php )  http://img706.imageshack.us/img706/1218/silencek.png 
+( C )     http://img295.imageshack.us/img295/1156/screenc.png
+http://img405.imageshack.us/my.php?image=c13rf1.png 
+http://img210.imageshack.us/my.php?image=c14lk3.png 
+
+Updates for constants, int, float types, boolean now have a light background. 
